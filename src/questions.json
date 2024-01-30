@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is this common sauce reduction called?",
+        "image": "https://chefjeanpierre.com/wp-content/uploads/2022/09/Demi-Glace-Recipe.jpg",
+        "answers": [
+            "Demi-glace",
+            "Mornay",
+            "Béchamel",
+            "Au Poivre"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What internal temperature do you cook a steak to to achieve 'Medium Rare'?",
+        "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/18/08/2048x1152/hd-aspect-1519155106-flank-steak-horizontal.jpg",
+        "answers": [
+            "120°F",
+            "140°F",
+            "160°F",
+            "180°F"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the angled flat surface on the fish sliced for Nigiri sushi called?",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oomoriraisu/20210123/20210123050350.jpg",
+        "answers": [
+            "Yane",
+            "Sashimi-bocho",
+            "Toro",
+            "Nabe"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is not a component of Mirepoix?",
+        "image": "https://i.dailymail.co.uk/i/pix/2016/06/08/12/350E5DC500000578-0-image-a-21_1465386391868.jpg",
+        "answers": [
+            "Onions",
+            "Celery",
+            "Garlic",
+            "Carrots"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What would be a good solution to fix the endgrain tearout on this bowl?",
+        "image": "https://images.finewoodworking.com/app/uploads/2016/09/05180415/tame-tearout-video-thumb2.jpg",
+        "answers": [
+            "Gently Sand the Tearout",
+            "Apply Even Heat Along Torn Grain",
+            "Raise the Grain and Reverse Sand",
+            "Take A More Agressive Cut"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of knife is this?",
+        "image": "https://toroscookware.com/cdn/shop/products/usuba-bocho-japanese-chefs-vegetable-knife-5cr15-stainless-steel-968867_800x.jpg?v=1599407195",
+        "answers": [
+            "Nakiri",
+            "Bunka",
+            "Gyuto",
+            "Usuba"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "When Routing, in what situation would it be appropriate to make a climb cut?",
+        "image": "https://s3.amazonaws.com/media.woodsmithplans.com/images/SN13218_compact-router-table/photo-large-hd.jpg",
+        "answers": [
+            "When you want more control of the workpiece",
+            "When you want to avoid tearout",
+            "Climb cuts are unsafe, and should never be made",
+            "For initial cuts of a workpiece"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is this ingredient?",
+        "image": "https://kokorocares.com/cdn/shop/articles/23339296_m_600x.jpg?v=1649495954",
+        "answers": [
+            "Tarako",
+            "Uni",
+            "Celery",
+            "Tuna"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is this tool used for?",
+        "image": "https://www.sharpeningsupplies.com/Assets/Images/5100-12-z.jpg",
+        "answers": [
+            "Knife sharpening",
+            "Stropping the knife burr",
+            "Looking cool",
+            "Straightening the knife burr"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Where is the appropriate place to put this piece of flatware?",
+        "image": "https://assets.katomcdn.com/q_auto,f_auto/v1641217509/products/324/324-T163FSLF/324-t163fslf.jpg",
+        "answers": [
+            "On the right, in between the dinner knife and soup spoon",
+            "On the left, to the left of the dinner fork",
+            "Above the plate, below the desert spoon",
+            "On the plate, centered across"
+        ],
+        "correctAnswer": 1
+    }
+]
