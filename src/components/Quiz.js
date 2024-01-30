@@ -46,8 +46,8 @@ export function Quiz() {
                         <Question question={curQuestion.question} image={curQuestion.image} answers={curQuestion.answers} correctAnswer={curQuestion.correctAnswer} handleCorrect={handleCorrect} handleIncorrect={handleIncorrect} questionAnswered={questionAnswered} />
                         {nextButton}
                     </div>
-                    <div class="absolute bottom-4 right-4">
-                        <p class="text-4xl font-black text-gray-900 dark:text-white text-left">Score: {score}</p>
+                    <div className="absolute bottom-4 right-4">
+                        <p className="text-4xl font-black text-gray-900 dark:text-white text-left">Score: {score}</p>
                     </div>
                 </div>
             ) : (

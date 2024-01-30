@@ -12,6 +12,6 @@ export function AnswerButton({ text, onClick, questionAnswered, correct }) {
     }
 
     return (
-        <button class={buttonClass} onClick={onClick} disabled={questionAnswered !== 0}>{text}</button>
+        <button className={buttonClass} onClick={onClick} disabled={questionAnswered !== 0}>{text}</button>
     );
 }
