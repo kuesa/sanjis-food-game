@@ -42,23 +42,23 @@ export function Quiz() {
     let reaction;
 
     if (score === 0) {
-        color = 'red-600';
+        color = 'text-red-600';
         reaction = 'OH MON DIEU!! YOU STINK!';
     } else if (score < 3) {
-        color = 'amber-700';
+        color = 'text-amber-700';
         reaction = 'SACRE BLEU! WHAT A HORRIBEAULX SCORE!';
     } else if (score < 7) {
-        color = 'yellow-500';
+        color = 'text-yellow-500';
         reaction = 'NOT VERY GEAUXD. BACK TO ZE KITCHEN!!!';
     } else if (score < 10) {
-        color = 'yellow-400';
+        color = 'text-yellow-400';
         reaction = 'Ahhhh it was eaux-kay, but not good enough!';
     } else if (score === 10) {
-        color = 'green-500';
+        color = 'text-green-500';
         reaction = "MAGNIFIQUE!!! MERVEILLEUX!! C'EST PARFAIT!!";
     }
 
-    let scoreClass = `mb-2 text-4xl font-bold tracking-tight text-${color} dark:text-${color} text-center`;
+    let scoreClass = `mb-2 text-4xl font-bold tracking-tight ${color} text-center`;
 
     return (
         <>
