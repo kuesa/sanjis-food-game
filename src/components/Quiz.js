@@ -58,7 +58,7 @@ export function Quiz() {
         reaction = "MAGNIFIQUE!!! MERVEILLEUX!! C'EST PARFAIT!!";
     }
 
-    let scoreClass = `mb-2 text-4xl font-bold tracking-tight ${color} text-center`;
+    let scoreClass = `mb-2 text-4xl font-bold tracking-tight ${color} dark:${color} text-center`;
 
     return (
         <>
