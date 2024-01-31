@@ -8,6 +8,9 @@ export function Quiz() {
     const [questionAnswered, setQuestionAnswered] = useState(0);
     const [finishedQuiz, setFinishedQuiz] = useState(false);
 
+    let frenchAudio = document.getElementById('frenchaudio');
+    frenchAudio.play();
+
     function handleCorrect() {
         setScore(score + 1);
         setQuestionAnswered(2);
